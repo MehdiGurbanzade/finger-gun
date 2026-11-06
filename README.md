@@ -1,8 +1,8 @@
-# Finger Gun Detector
+# Finger Gun
 
 Can a webcam recognise a "finger gun" and fire when you pull the trigger with your thumb? This browser app tracks your hands in real time with MediaPipe Hands, detects the gun pose from the hand landmarks and fires a shot with a muzzle flash and sound when you drop your thumb.
 
-**Live demo:** https://mehdigurbanzade.github.io/finger-gun-detector/
+**Live demo:** https://mehdigurbanzade.github.io/finger-gun/
 
 <p align="center">
   <img src="images/aiming.png" width="49%" alt="Aiming: gun pose detected, laser shows the aim direction">
@@ -23,7 +23,7 @@ Can a webcam recognise a "finger gun" and fire when you pull the trigger with yo
 
 ## How to use
 
-1. Open the [live demo](https://mehdigurbanzade.github.io/finger-gun-detector/) and click **Start Camera** (allow camera access).
+1. Open the [live demo](https://mehdigurbanzade.github.io/finger-gun/) and click **Start Camera** (allow camera access).
 2. Make a finger gun: index finger and thumb extended, the other fingers curled. The label switches to **AIMING** and a laser appears.
 3. Drop your thumb like a trigger to **FIRE**.
 
